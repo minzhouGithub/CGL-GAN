@@ -1,2 +1,5 @@
 # Composition-aware-Graphic-Layout-GAN-for-Visual-Textual-Presentation-Designs
-The code and dataset will be released soon.
+
+data link: https://tianchi.aliyun.com/dataset/142692
+
+The code will be released soon.
